@@ -1,0 +1,17 @@
+{
+  "name": "foodCalTracker",
+  "displayName": "foodCalTracker",
+  "expo": {
+    "name": "foodCalTracker",
+    "slug": "foodCalTracker",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
