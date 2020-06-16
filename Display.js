@@ -47,6 +47,8 @@ const DisplayPage=(props)=>
            console.log(res)*/
            //const image = new FormData();
             //image.append("image",uri)
+          
+          //Fetch Api Code using POST Request
             var str="Phone/DCIM/"+localuri;
             str=str.replace("file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540dheerajmogaveera%252FfoodCalTracker/ImagePicker/","")
             console.log(str)
